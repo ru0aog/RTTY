@@ -1,2 +1,2 @@
 # RTTY
-RTTY modem
+RTTY beacon
